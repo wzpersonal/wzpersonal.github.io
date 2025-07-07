@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tianjin, China"
   employer         : "Hebei University of Technology"
-#  uri              : # URL
+  uri              : # URL
   email            : "wang.zheng@hebut.edu.cn" 
 
   # Academic websites
